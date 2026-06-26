@@ -59,12 +59,11 @@ WARNING:
 */
 
 -- Drop existing databases
-DROP DATABASE IF EXISTS bronze;
-DROP DATABASE IF EXISTS silver;
-DROP DATABASE IF EXISTS gold;
+DROP DATABASE IF EXISTS Bronze_Bara_Project;
+DROP DATABASE IF EXISTS Silver_Bara_Project;
+DROP DATABASE IF EXISTS Gold_Bara_Project;
 
 -- Create databases
-CREATE DATABASE bronze;
-CREATE DATABASE silver;
-CREATE DATABASE gold;
-
+CREATE DATABASE Bronze_Bara_Project;
+CREATE DATABASE Silver_Bara_Project;
+CREATE DATABASE Gold_Bara_Project;
