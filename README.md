@@ -93,6 +93,9 @@ data-warehouse-project/
 ## 🛠️ Important Links & Tools:
 Notion Link: http://incredible-yew-798.notion.site/Data-Warehouse-Project-With-Baraa-380645718ee480e98bb7e027648158fd
 
+## 🌟 Special Thanks - **Baraa Khatib Salkini** 🙌🙌 
+For explaining all SQL concept and project in details and touching the real world Data Engineering and Data analysis projects like data warehousing, data segmentation, part to whole analysis and many more.
+
 ## 🛡️ License
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
 
