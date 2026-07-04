@@ -70,8 +70,10 @@ It covers a wide range of analytical techniques, including:
 * **Segmentation**
 * **Other essential SQL-based analyses**
 
+![Data Analysis Roadmap](docs/analysis_road_map.png)
+
 ---
-## 📂 Repository Structure
+## 📂 Repository Structure for Data Warehouse Project
 ```
 data-warehouse-project/
 │
@@ -112,7 +114,7 @@ Hi there 👋
 
 I'm **Rudresh Joshi**,
 
-I'm a Senior Data Engineer with 5+ years of experience designing and building scalable data platforms and ETL pipelines. I enjoy solving complex data problems by combining data engineering best practices with cloud technologies and modern analytics tools.
+I'm a Enthusiastic Data Engineer with 5+ years of experience designing and building scalable data platforms and ETL pipelines. I enjoy solving complex data problems by combining data engineering best practices with cloud technologies and modern analytics tools.
 
 
 
