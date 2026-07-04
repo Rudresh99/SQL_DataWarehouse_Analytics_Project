@@ -52,15 +52,23 @@ Develop a modern data warehouse using MySQL Workbench to consolidate sales data,
 
 ### BI: Analytics & Reporting (Data Analysis)
 
-#### Objective
-Develop SQL-based analytics to deliver detailed insights into:
+# SQL Data Analytics Repository
 
-- **Customer Behavior**
-- **Product Performance**
-- **Sales Trends**
-  
-These insights empower stakeholders with key business metrics, enabling strategic decision-making.
-For more details, refer to docs/requirements.md.
+This is a collection of SQL scripts for data exploration, analytics, and reporting. 
+
+## 📊 Overview
+Designed for data analysts and BI professionals, the repository provides practical SQL queries to efficiently explore, segment, and analyze data stored in relational databases. 
+
+Each script focuses on a specific analytical theme while demonstrating SQL best practices and real-world querying techniques.
+
+## 🔑 Analytical Techniques Covered
+It covers a wide range of analytical techniques, including:
+* **Database exploration**
+* **Measures and metrics**
+* **Time-based trend analysis**
+* **Cumulative analytics**
+* **Segmentation**
+* **Other essential SQL-based analyses**
 
 ---
 ## 📂 Repository Structure
