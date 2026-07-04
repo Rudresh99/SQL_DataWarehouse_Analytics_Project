@@ -52,7 +52,7 @@ Develop a modern data warehouse using MySQL Workbench to consolidate sales data,
 
 ### BI: Analytics & Reporting (Data Analysis)
 
-# SQL Data Analytics Repository
+#### SQL Data Analytics Repository
 
 This is a collection of SQL scripts for data exploration, analytics, and reporting. 
 
